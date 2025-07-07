@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="[[https://your-banner-image-url.com/banner.png](https://pin.it/x4Jmi7Ps4)](https://www.alamy.com/devops-banner-concept-has-8-steps-to-analyze-such-as-plan-code-build-operate-deploy-test-monitor-and-release-for-software-development-and-inform-image684097584.html?imageid=7565DA8D-B2D6-4529-B09F-083628DC1314&p=1761163&pn=1&searchId=49f51d57342b43101a7417a75c4776a5&searchtype=0)" height="100%" width="100%" />
-</p>
-
 <h1 align="center">Hi 👋, I'm Santhosh Kumar S M</h1>
 <h3 align="center">A passionate DevOps Engineer from Bengaluru</h3>
 <h1 align="center">Hi 👋, I'm Santhosh Kumar S M</h1>
