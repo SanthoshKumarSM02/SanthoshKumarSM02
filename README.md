@@ -2,7 +2,7 @@
 
 I'm a passionate DevOps and Cloud enthusiast with a Master's in Computer Applications. I specialize in deploying scalable infrastructure, automating CI/CD pipelines, and working with cloud-native tools. My goal is to contribute to efficient and reliable IT environments through modern DevOps practices.
 
-## 🚀 About Me
+## 🚀 About Me https://pin.it/f4ek46EBg
 
 - 🔧 Tools: AWS, Docker, Jenkins, GitHub Actions, Terraform, Ansible, Kubernetes
 - 🧰 Skills: CI/CD, Infrastructure as Code, Monitoring (Prometheus & Grafana), Scripting (Python, Bash)
