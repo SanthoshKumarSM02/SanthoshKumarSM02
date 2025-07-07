@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="[https://your-banner-image-url.com/banner.png](https://pin.it/x4Jmi7Ps4)" alt="Santhosh Kumar Banner" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Santhosh Kumar S M</h1>
+<h3 align="center">A passionate DevOps Engineer from Bengaluru</h3>
 <h1 align="center">Hi 👋, I'm Santhosh Kumar S M</h1>
 <h3 align="center">A passionate DevOps Engineer from Bengaluru</h3>
 
