@@ -1,61 +1,20 @@
-# 👋 Hi, I'm Santhosh Kumar S M
+<h1 align="center">Hi 👋, I'm Santhosh Kumar S M</h1>
+<h3 align="center">A passionate DevOps Engineer from Bengaluru</h3>
 
-I'm a passionate DevOps and Cloud enthusiast with a Master's in Computer Applications. I specialize in deploying scalable infrastructure, automating CI/CD pipelines, and working with cloud-native tools. My goal is to contribute to efficient and reliable IT environments through modern DevOps practices.
+- 🌱 I’m currently learning **DevOps**
 
-## 🚀 About Me https://pin.it/f4ek46EBg
+- 💬 Ask me about **DevOps, AWS, Linux, Networking**
 
-- 🔧 Tools: AWS, Docker, Jenkins, GitHub Actions, Terraform, Ansible, Kubernetes
-- 🧰 Skills: CI/CD, Infrastructure as Code, Monitoring (Prometheus & Grafana), Scripting (Python, Bash)
-- 📍 Location: Banashankari, Bangalore
-- 💼 Actively seeking roles in DevOps, Cloud, System Administration, or Network Engineering
+- 📫 How to reach me **santhoshkumarsm02@gmail.com**
 
-## 🛠️ Projects
+- 📄 Know about my experiences [https://drive.google.com/file/d/19nvYXOYFunPEVEvLCVT6qz0tERmRGxEY/view?usp=sharing](https://drive.google.com/file/d/19nvYXOYFunPEVEvLCVT6qz0tERmRGxEY/view?usp=sharing)
 
-### 1. CI/CD Pipeline for Node.js App using Jenkins
-Automated build and deployment using:
-- Jenkins installed on AWS EC2
-- GitHub webhook integration to trigger pipeline
-- Jenkinsfile defining build, test, and deploy stages
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/santhoshkumarsm02/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/santhoshkumarsm02/" height="30" width="40" /></a>
+</p>
 
-➡️ [GitHub Repo Link Here]
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 
----
-
-### 2. Static Website Deployment using AWS S3 and CodePipeline
-- S3 bucket configured for static website hosting
-- Used CodePipeline to automatically deploy changes from GitHub
-
-➡️ [GitHub Repo Link Here]
-
----
-
-### 3. Website and Service Monitoring with Prometheus & Alert Manager
-- Monitored uptime and response of websites and VMs using Prometheus and Blackbox Exporter
-- Configured Alert Manager for real-time email notifications
-
-➡️ [GitHub Repo Link Here]
-
----
-
-### 4. Android Malware Detection using Machine Learning
-**Academic Project**
-- Developed a system to classify Android apps as malicious or safe based on permissions, API calls, and behavior patterns
-- Used machine learning techniques for feature extraction and classification
-
-➡️ [GitHub Repo Link Here]
-
-## 📜 Certifications
-
-- AWS Solutions Architect – Besant Technologies
-- DevOps Methodologies – Besant Technologies
-- Linux Administration – Besant Technologies
-- CCNA – Besant Technologies
-
-## 📫 Contact
-
-- 📧 Email: [santhoshkumarsm02@gmail.com](mailto:santhoshkumarsm02@gmail.com)
-- 🔗 LinkedIn: [linkedin.com/in/santhoshkumarsm02](https://www.linkedin.com/in/santhoshkumarsm02)
-
----
-
-⭐ *Feel free to explore my repositories and connect with me!*
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=santhoshkumarsm&show_icons=true&locale=en&layout=compact" alt="santhoshkumarsm" /></p>
